@@ -2,6 +2,8 @@
 batch convert images to doom (or any) palette PNG with GIMP batch mode
 
 # Install
+Open gimp
+    Add a palette and name it Doom
 
 dpkg-deb --build doomconvert-deb
     to create a .deb file for linux. Then you can install it by
