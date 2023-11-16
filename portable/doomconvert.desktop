@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=doomconvert
+Comment=
+Exec=bash doomconvert.sh %F %u
+Icon=gimp
+Path=
+Terminal=true
+StartupNotify=false

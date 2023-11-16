@@ -1,0 +1,7 @@
+Package: doomconvert
+Version: 1.0
+Architecture: all
+Maintainer: Gelle Szebasztián
+Description: GIMP Doom palette converter
+Depends: gimp
+
